@@ -1,0 +1,6 @@
+Erros:
+    1- Falta de identificação do tipo das variáveis;
+    2- Falta de ponto e vírgula ";";
+    3- Falta ler a variável "altura";
+    4- Uso de setas para atribuir valor à variável em vez do sinal "=";
+    5- Uso do termo "escrever" em vez de "imprima"
